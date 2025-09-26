@@ -13,7 +13,7 @@
 - Diving into PostgreSQL for efficient and scalable database management.
  
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=docker,php,tailwind,laravel,postgresql,mysql,redis,rabbitmq,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,php,tailwind,laravel,vue,postgresql,mysql,redis,rabbitmq,github,python)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
